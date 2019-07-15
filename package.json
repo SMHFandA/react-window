@@ -1,6 +1,6 @@
 {
-  "name": "react-window",
-  "version": "1.6.2",
+  "name": "react-window-up",
+  "version": "0.0.1",
   "description":
     "React components for efficiently rendering large, scrollable lists and tabular data",
   "author":
